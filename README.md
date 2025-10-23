@@ -2,10 +2,10 @@
 
 AUTORES:
 --------
-Diego Marchioni Alves dos Santos
-Gabriel Martins Rajão
-Luiza Dias Corteletti
-Sophia Carrazza Ventorim de Sousa
+- Diego Marchioni Alves dos Santos
+- Gabriel Martins Rajão
+- Luiza Dias Corteletti
+- Sophia Carrazza Ventorim de Sousa
 
 DESCRIÇÃO DA APLICAÇÃO:
 ------------------------
