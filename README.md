@@ -1,5 +1,3 @@
-# kmeansParalelizado
-
 AUTORES:
 --------
 - Diego Marchioni Alves dos Santos
